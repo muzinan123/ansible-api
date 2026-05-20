@@ -66,3 +66,11 @@ App                →  Application layer (dynamic Nginx config rendering & depl
 - Ansible 1.x
 - `passlib` — password hashing (SHA-512)
 - Jinja2 — config template rendering (via Ansible Playbook)
+
+
+## 📝 Related Articles
+
+📚 [Ansible Deep Dive: Architecture, Playbooks, API, Execution Internals & Performance Tuning](https://dev.to/jamesli/ansible-deep-dive-architecture-playbooks-api-execution-internals-performance-tuning-26bm)
+
+📚 [Building an Ops Job Control System: Script Execution, File Distribution & Configuration Management](https://dev.to/jamesli/building-an-ops-job-control-system-script-execution-file-distribution-configuration-management-330h)
+
